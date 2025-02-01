@@ -33,9 +33,9 @@
   ],
   "volta": {
     "node": "16.17.1",
-    "yarn": "1.22.19"
+    "yarn": "1.22.22"
   },
   "devDependencies": {
-    "turbo": "1.6.3"
+    "turbo": "2.4.0"
   }
 }
